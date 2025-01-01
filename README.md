@@ -1,7 +1,3 @@
-Sure! Here’s the updated README with the "About the Project" section added:
-
----
-
 # Spatial Data Visualization
 
 **A web application to visualize spatial data on COVID-19 and GDP trends in India.**  
